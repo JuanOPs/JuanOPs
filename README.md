@@ -1,5 +1,5 @@
 # 💻 Juan Olivio
-**`🎓 Estudante de ADS | Técnico em Desenvolvimento de Sistemas | Desenvolvedor de Software em formação`**
+**`🎓 Estudante de ADS | Técnico em Desenvolvimento de Sistemas`**
 
 Me chamo Juan Olivio Palmeiras. Sou técnico em Desenvolvimento de Sistemas pela ETEC Fernando Prestes e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC-SO. Estou construindo minha base e aprimorando meus conhecimentos para atuar como desenvolvedor. Busco minha primeira oportunidade na área de tecnologia.
 <br/>
